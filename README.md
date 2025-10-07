@@ -1,4 +1,4 @@
-readme_content = """# Network Packet Sniffer with Anomaly Detection System #"""
+readme_content =  Network Packet Sniffer with Anomaly Detection System 
 
 ## Project Objective
 The objective of this project is to build a real-time network traffic sniffer with basic anomaly detection capabilities. The system will capture network packets, extract relevant information, detect potential security threats like port scanning and flooding, store the data and anomalies in a database for historical analysis, and generate alerts for detected anomalies.
